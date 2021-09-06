@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "506010977189",
+    "project_id": "registrationapp-4099c",
+    "storage_bucket": "registrationapp-4099c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506010977189:android:db56e5ad799cd5e4629e4c",
+        "android_client_info": {
+          "package_name": "com.example.firebase_login_signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506010977189-lccmnalaqrvicuohinv62bin7femm8s9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-YiwjaSBMn3NHXYUJ6lvUUM4eveY0_wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506010977189-lccmnalaqrvicuohinv62bin7femm8s9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506010977189:android:b255725fc302a352629e4c",
+        "android_client_info": {
+          "package_name": "com.example.registration_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506010977189-d4uhaqg4764a49e5qiv428lc45cl0uij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.registration_app",
+            "certificate_hash": "75579e9a1305da2a265e456630ecf1089cc113c1"
+          }
+        },
+        {
+          "client_id": "506010977189-lccmnalaqrvicuohinv62bin7femm8s9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-YiwjaSBMn3NHXYUJ6lvUUM4eveY0_wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506010977189-lccmnalaqrvicuohinv62bin7femm8s9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
